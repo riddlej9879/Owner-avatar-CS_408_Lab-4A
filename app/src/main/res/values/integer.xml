@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name= "input_txt_size">16</integer>
+    <integer name="output_txt_size">12</integer>
+    <integer name="button_txt_size">14</integer>
+</resources>

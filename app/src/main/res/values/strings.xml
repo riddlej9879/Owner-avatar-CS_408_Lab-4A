@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_4A-Memopad</string>
+    <string name="new_memo_txt">New Memo: </string>
+    <string name="btn_add_txt">Add Memo</string>
+    <string name="btn_delete_txt">Delete Memo</string>
+    <string name="btn_add_tag">add</string>
+    <string name="btn_delete_tag">delete</string>
+</resources>
